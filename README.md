@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+## Cloud Engineer
+- Cloud Engineer in Multi Cloud
+
+## Interest
+- Public Cloud : aws,gcp,azure
+- IaC : terraform, cloudFormation
+- Automation : Ansible
+
+
 <!--
 **bajutae/bajutae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
