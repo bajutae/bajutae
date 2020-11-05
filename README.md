@@ -6,6 +6,8 @@
 - Public Cloud : aws,gcp,azure
 - IaC : terraform, cloudFormation
 - Automation : Ansible
+- queue : kafka, confluent
+- AI platform : kubeflow 
 
 
 <!--
