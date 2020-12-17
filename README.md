@@ -1,6 +1,7 @@
 ## Cloud Engineer
 - Cloud Engineer in Multi Cloud
 - Kubernetes Engineer
+- Devops 
 
 ## Interest
 - Public Cloud : aws,gcp,azure
